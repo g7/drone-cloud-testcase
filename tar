@@ -1,0 +1,2 @@
+#!/bin/sh
+TAR_OPTIONS="--touch $TAR_OPTIONS" /bin/tar "$@"
